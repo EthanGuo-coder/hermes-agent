@@ -44,6 +44,7 @@ AUTHOR_MAP = {
     "m@mobrienv.dev": "mikeyobrien",
     "qiyin.zuo@pcitc.com": "qiyin-code",
     "leone.parise@gmail.com": "leoneparise",
+    "ethanguo.2003@gmail.com": "EthanGuo-coder",
     "teknium@nousresearch.com": "teknium1",
     "127238744+teknium1@users.noreply.github.com": "teknium1",
     "aludwin+gh@gmail.com": "adamludwin",
